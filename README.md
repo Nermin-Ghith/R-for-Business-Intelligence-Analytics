@@ -1,6 +1,6 @@
 # R-for-Business-Intelligence-Analytics
 
-- Data Power BI Dashboard 
+- Data Power BI Dashboard (using WHO health data)
 - Agile Data Science with R
 - R for UX Research
 - Database Queries With R
